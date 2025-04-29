@@ -2,12 +2,14 @@
 /**
  * Plugin Name: Selective Cache Control
  * Plugin URI: https://jfdesigns.com/
- * Description: Select specific pages to disable caching and optionally force reload on browser back button. Admin bar badge included. Clear selections manually if needed.
- * Version: 1.3
- * Author: Jay Forde 
+ * Description: Select specific pages to disable caching and optionally force reload on browser back button. Especially for hosting services like GoDaddy.
+ * Version: 1.3.1
+ * Author: Jay Forde
  * Author URI: https://jfdesigns.com/
  * License: GPL2
+ * GitHub Plugin URI: https://github.com/JFDesigns-Projects/selective-cache-control
  */
+
 
 if (!defined('ABSPATH')) exit;
 
