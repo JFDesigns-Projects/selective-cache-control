@@ -8,6 +8,7 @@
  * Author URI: https://jfdesigns.com/
  * License: GPL2
  * GitHub Plugin URI: https://github.com/JFDesigns-Projects/selective-cache-control
+  * Primary Branch: main
  */
 
 
